@@ -171,7 +171,7 @@ pip install numpy pandas matplotlib scikit-learn scipy
 **Option 1 — Jupyter Notebook (local):**
 
 ```bash
-git clone https://github.com/<your-username>/california-housing-pipeline.git
+git clone https://github.com/abhinab44/california-housing-pipeline.git
 cd california-housing-pipeline
 jupyter notebook california_housing_pipeline.ipynb
 ```
