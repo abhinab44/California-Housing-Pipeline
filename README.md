@@ -10,6 +10,15 @@
 
 ---
 
+## Notebooks
+
+| Notebook | Description |
+|---|---|
+| `california_housing_pipeline.ipynb` | Baseline pipeline — LR, Decision Tree, Random Forest with GridSearchCV |
+| `california_housing_production.ipynb` | Production pipeline — log target, advanced features, XGBoost, LightGBM, stacking ensemble |
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
